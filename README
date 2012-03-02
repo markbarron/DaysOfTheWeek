@@ -1,0 +1,25 @@
+/* -------------------------------------------------------------
+ Programming Assignment:      Lab 1 - The Days of the Week
+ Developer:                   Mark Barron
+ Date Written:                January 11, 2011
+ Purpose:					  To define a class.
+ 
+ This program will define a class to model the characteristics
+ and behavior of the object by defining the appropriate 
+ constructors and destructors for the class, as well as create
+ an instance of the object.  This program will also call the 
+ methods of the object to solve a problem.
+ -------------------------------------------------------------*/
+
+/* -------------------------------------------------------------
+ Scenario / Summary
+ Write a program that contains a class that implements the days
+ of the week.  The program should be able to perform the 
+ following on an object of the class.
+ 1) set the day
+ 2) print the day to the computer monitor (not the printer)
+ 3) return the day
+ 
+ Deliverables
+ A zipped folder that includes the complete solution folder.
+ -------------------------------------------------------------*/
